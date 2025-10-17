@@ -101,7 +101,7 @@
 
 # print(f"Tu indice de masa corporal es de {imc}")
 
-#-------------------------------------------
+#--------------------------------------------
 
 # def celsius_a_fahrenheit(celsius):
 #     F = celsius * 9/5 + 32
